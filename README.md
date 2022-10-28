@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Matheus leite de Castro ✌
 
-<div align="start">
+<div>
   <a href="https://github.com/matheuslei">
       <a href="https://instagram.com/matheuslei.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-leite-de-castro-281a02170" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -10,7 +10,7 @@
 ### About me 
 **I have been working in the IT field since 2014 as a computer technician. In 2020 I took the IGTI Full Stack Bootcamp to specialize as a FullStack developer. Currently, I take other courses with the aim of improving my technical skills as a front-end developer.**
 
-    
+ <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuslei&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslei&layout=compact&langs_count=7&theme=dark"/>
 </div>
