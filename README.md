@@ -1,14 +1,14 @@
-## Hi 👋, I'm Matheus leite de Castro ✌
+## Olá 👋, Eu sou o Matheus leite de Castro ✌
 
 <div>
   <a href="https://github.com/matheuslei">
       <a href="https://instagram.com/matheuslei.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-leite-de-castro-281a02170" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/matheusleidev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuslei&label=Profile%20views&color=0e75b6&style=flat" alt="matheuslei" /> </p>
     
 ### About me 
-**I have been working in the IT field since 2014 as a computer technician. In 2020 I took the IGTI Full Stack Bootcamp to specialize as a FullStack developer. Currently, I take other courses with the aim of improving my technical skills as a front-end developer.**
+  Trabalho na área de TI desde 2014 como técnico de informática. Em 2020 realizei o Full Stack Bootcamp da IGTI e atualmente realizo outros cursos com o objetivo de aprimorar minhas habilidades. 
 
  <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuslei&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,6 +24,8 @@
   <img align="center" alt="ML-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   </div>
+  
+  
   
   ##
   
