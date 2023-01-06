@@ -7,8 +7,16 @@
   </div>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuslei&label=Profile%20views&color=0e75b6&style=flat" alt="matheuslei" /> </p>
     
-### About me 
-  Trabalho na área de TI desde 2014 como técnico de informática. Em 2020 realizei o Full Stack Bootcamp da IGTI e atualmente realizo outros cursos com o objetivo de aprimorar minhas habilidades. 
+### Sobre 
+  Trabalho com TI desde 2014 como Service Desk. Em 2020 realizei o Bootcamp Full Stack Javascript na IGTI.
+
+  Atualmente estou me especializando no front-end com o objetivo de entrar na área de desenvolvimento web. 
+
+Realizei alguns projetos utilizando as seguintes tecnologias: React JS, React Native, MongoDB, Typescript, Javascript, NodeJS, Styled Components, SASS, Tailwind CSS, Figma, entre outros. 
+ 
+Fique à vontade para conferir meu portfólio  😉
+
+Portfólio: https://matheusleidev.vercel.app/
 
  <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuslei&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
