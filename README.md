@@ -1,5 +1,6 @@
 ## Olá 👋, Eu sou o Matheus leite de Castro ✌
 
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=24&pause=20&color=c9d1d9&lines=Desenvolvedor+Front-End;Desenvolvedor+Back-End;Desenvolvedor+Fullstack;Desenvolvedor+Web"/>
 <div>
   <a href="https://github.com/matheuslei">
       <a href="https://instagram.com/matheuslei.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
