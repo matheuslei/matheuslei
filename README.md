@@ -1,4 +1,4 @@
-## Olá 👋, Eu sou o Matheus leite de Castro ✌
+## Olá 👋, Eu sou o Matheus Leite de Castro ✌
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=24&pause=20&color=c9d1d9&lines=Desenvolvedor+Front-End;Desenvolvedor+Back-End;Desenvolvedor+Fullstack;Desenvolvedor+Web"/>
 <div>
